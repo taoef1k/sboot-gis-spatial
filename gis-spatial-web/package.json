@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/taoef1k/sboot-gis-spatial/issues"
   },
-  "homepage": "https://github.com/taoef1k/sboot-gis-spatial#readme"
+  "homepage": "https://github.com/taoef1k/sboot-gis-spatial#readme",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "@types/angular": "^1.6.54"
+  }
 }
