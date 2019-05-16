@@ -1,0 +1,22 @@
+{
+  "name": "gis-spatial-web",
+  "version": "1.0.0",
+  "description": "GIS Spatial Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taoef1k/sboot-gis-spatial.git"
+  },
+  "keywords": [
+    "gis-spatial"
+  ],
+  "author": "Mohd Taufik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taoef1k/sboot-gis-spatial/issues"
+  },
+  "homepage": "https://github.com/taoef1k/sboot-gis-spatial#readme"
+}
